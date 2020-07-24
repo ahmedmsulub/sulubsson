@@ -2,7 +2,7 @@
   "main": {
     "name":"Sulubsson",
     "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"sulub.png",
+    "image":"sulubssonLogo.png",
     "bio":"You’ve made it! Welcome to Sulubsson’s web development company. We in sulubsson are extremely passionate about what we do and have always put our clients first. From the initial meet to the finish line, our team’s uniquely personal attention will keep you in the loop as your creative experience unfolds. We have a lust for life and a passion for creation. We look forward to the opportunity to work with you and welcome you to our great work of success.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "youremailhere@gmail.com",
