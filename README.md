@@ -1,30 +1,25 @@
-# React Nice Resume     
+# React JS Landing Page Template
 
-### DEMO is [here](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
 
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img.jpg?raw=true)
-
-# About [`particles-bg`](https://github.com/lindelof/particles-bg) library
-#### This project uses the react particle background component library [https://github.com/lindelof/particles-bg](https://github.com/lindelof/particles-bg). It's very simple. Anyone can be a Musketeer with it.
-
-![img](https://github.com/lindelof/particles-bg/raw/master/image/03.jpg?raw=true)
+### <a href="https://react-landing-page-template.herokuapp.com">LIVE DEMO</a> 
 
 ## Description
-This project forks from [https://github.com/tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template), I made some modifications and adjustments, thanks to the [author](https://github.com/tbakerx).
+This is a ReactJS based landing page template, fit for a startup company/service with a one page view. The design is inspired by a template from <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
+All componenets data can be easily modified to git use by changing the data.JSON file that contains all data.
 
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img2.jpg?raw=true)
+## Make it Yours!
+### 1. Preps
+You will need to have <a href="https://nodejs.org/">Node JS</a> installed on your pc. 
 
-## Run Project
-### 1. Clone the project
+### 2. Clone Files
+After cloning the files, you will have to run ```yarn``` followed by ```yarn start``` in the CLI
+### 3. Add your own data 
+Change the data in the ```data.JSON``` file as well as add any images to ```public/img/```
+You can also change styles by modifying the ```public/css``` files.
 
-### 2. Run the project
-```shell
-npm i
-npm start
-```
 
-### 3. BUild
-```shell
-npm run build
-```
-# sulubsson
+## Credits
+##### Free CSS 
+<a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
+
+##### Issaaf kattan

@@ -1,0 +1,119 @@
+{
+    "Header": {
+
+        "title": "We are a Landing Page",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+
+    },
+    "About": {
+        "paragraph": "You’ve made it! Welcome to Sulubsson’s web development company. We in sulubsson are extremely passionate about what we do and have always put our clients first. From the initial meet to the finish line, our team’s uniquely personal attention will keep you in the loop as your creative experience unfolds. We have a lust for life and a passion for creation. We look forward to the opportunity to work with you and welcome you to our great work of success.",
+        "Why": [
+            "Attention to Details",
+            "A Plan for Success",
+            "Experts Only"
+        ],
+        "Why2": [
+            "Pricing",
+            "Meeting Deadlines",
+            "Creativity"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-mobile",
+            "name": "Mobile Version",
+            "text": "Whether it’s your newest endeavour or a rebrand, logo design is the first step.."
+        },
+        {
+            "icon": "fa fa-desktop",
+            "name": "Website Design",
+            "text": "It’s the digital storefront to your business so why not make it the nicest on the block?"
+        },
+        {
+            "icon": "fa fa-picture-o",
+            "name": "Logo Design",
+            "text": "creating a mobile-friendly website is no longer an option—it’s a necessity. It all s"
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/phone.png",
+            "name": "upcoming",
+            "job": "Devoloper"
+        },
+        {
+            "img": "img/phone.png",
+            "name": "upcoming",
+            "job": "Developer"
+        }, {
+            "img": "img/phone.png",
+            "name": "upcoming",
+            "job": "Devoloper"
+        },
+        {
+            "img": "img/phone.png",
+            "name": "upcoming",
+            "job": "Devoloper"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ]
+}
